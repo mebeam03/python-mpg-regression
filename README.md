@@ -56,13 +56,3 @@ The model year explained approximately **34% of the variation in MPG**. The posi
 Although the relationship was statistically significant (p < 0.05), the lower R² suggests that model year alone explains less variation in MPG than horsepower.
 
 The model predicted approximately **33.3 MPG for a vehicle manufactured in 1984**. This estimate should be interpreted cautiously if 1984 falls outside the dataset's observed years.
-
-## Key Takeaways
-
-Both models identified statistically significant relationships with fuel efficiency, but horsepower demonstrated greater explanatory power in this dataset.
-
-This analysis illustrates the difference between statistical significance and model performance. While both predictors were significant, neither model accounted for all variation in MPG. Other characteristics, such as vehicle weight, engine design, and transmission, may also influence fuel efficiency.
-
-## Project Scope
-
-This project was completed as a Python statistical analysis exercise. The models use single independent variables and are intended to demonstrate regression analysis, statistical interpretation, and data visualization rather than provide production-ready vehicle fuel economy predictions.
